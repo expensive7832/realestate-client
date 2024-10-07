@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!--Generator: Xara Designer (www.xara.com), SVG filter version: 6.3.0.23-->
+<svg fill="none" fill-rule="evenodd" stroke="black" stroke-width="0.501" stroke-linejoin="bevel" stroke-miterlimit="10" font-family="Times New Roman" font-size="16" style="font-variant-ligatures:none" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" version="1.1" overflow="visible" width="102.544pt" height="102.55pt" viewBox="23.728 -126.275 102.544 102.55">
+ <defs>
+	</defs>
+ <g id="Layer 1" transform="scale(1 -1)">
+  <g id="Group" stroke="none">
+   <path d="M 38.741,38.738 C 18.724,58.751 18.724,91.243 38.741,111.256 C 58.758,131.281 91.242,131.281 111.259,111.256 C 131.276,91.243 131.276,58.751 111.259,38.738 C 91.242,18.721 58.758,18.721 38.741,38.738 Z M 108.111,41.878 C 126.394,60.162 126.394,89.832 108.111,108.116 C 89.831,126.391 60.165,126.391 41.881,108.116 C 23.598,89.832 23.598,60.162 41.881,41.878 C 60.165,23.607 89.831,23.607 108.111,41.878 Z" fill="#330066" stroke-width="2.969" fill-rule="evenodd" marker-start="none" marker-end="none"/>
+   <path d="M 39.169,110.828 L 110.831,110.828 L 110.831,39.166 L 39.169,39.166 L 39.169,110.828"/>
+   <path d="M 100.335,64.501 C 96.424,68.408 91.793,71.297 86.711,73.043 C 92.145,76.779 95.717,83.04 95.717,90.12 C 95.717,101.539 86.423,110.828 75,110.828 C 63.581,110.828 54.291,101.539 54.291,90.12 C 54.291,83.04 57.859,76.779 63.293,73.043 C 58.219,71.297 53.576,68.408 49.665,64.501 C 42.896,57.753 39.169,48.747 39.169,39.166 L 44.778,39.166 C 44.778,55.847 58.339,69.411 75,69.411 C 91.665,69.411 105.226,55.847 105.226,39.166 L 110.831,39.166 C 110.831,48.747 107.104,57.753 100.335,64.501 Z M 75,75.001 C 66.669,75.001 59.881,81.785 59.881,90.12 C 59.881,98.446 66.669,105.223 75,105.223 C 83.331,105.223 90.123,98.446 90.123,90.12 C 90.123,81.785 83.331,75.001 75,75.001 Z" fill="#330066" stroke-width="0.144" fill-rule="evenodd" stroke-linejoin="miter" marker-start="none" marker-end="none"/>
+  </g>
+ </g>
+</svg>

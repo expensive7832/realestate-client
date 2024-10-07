@@ -1,0 +1,118 @@
+
+
+body {
+    margin-top: 50px;
+    height: 100vh;
+   
+}
+
+.card {
+    max-width: 30vw;
+    height: 380px;
+    position: relative;
+    padding: 20px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px
+}
+
+.heading{
+    margin: 4rem 0;
+}
+
+.h-1 {
+    text-transform: uppercase
+}
+
+.ribon {
+    position: absolute;
+    left: 50%;
+    top: 0;
+    transform: translate(-50%, -50%);
+    width: 80px;
+    height: 80px;
+    background-color: #292e32;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #fff;
+}
+
+.ribon .fas.fa-spray-can,
+.ribon .fas.fa-broom,
+.ribon .fas.fa-shower,
+.ribon .fas.fa-infinity {
+    font-size: 30px;
+    color: white
+}
+
+.card .price {
+    color: #384c5c;
+    font-size: 30px
+}
+
+.card ul {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center
+}
+
+.card ul li {
+    font-size: 12px;
+    margin-bottom: 8px
+}
+
+.card ul svg {
+    font-size: 8px;
+    color: #173F60;
+}
+
+.card:hover {
+    background-color: #173F60;
+}
+
+.card:hover .fa.fa-check {
+    color: #fff;
+}
+
+.card:hover .btn{
+    background-color: #fff;
+    color: #173F60;
+}
+
+
+.card:hover ul svg{
+    color: #fff;
+}
+
+.card:hover ul li{
+    color: #fff;
+}
+
+.card:hover .price {
+    color: #fff;
+}
+
+.card:hover p{
+    color: #fff;
+}
+
+.card .btn {
+    width: 200px;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #173F60;
+    border: none;
+    border-radius: 0px;
+    box-shadow: none
+}
+
+
+
+@media (max-width:500px) {
+    .card {
+        max-width: 100%
+    }
+}

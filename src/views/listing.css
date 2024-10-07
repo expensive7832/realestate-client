@@ -1,0 +1,9 @@
+.listing select {
+    color: -internal-light-dark(black, white);
+    -webkit-rtl-ordering: logical;
+    background-color: #fff!important;
+    cursor: default;
+    margin: 0em;
+    border: none!important;
+    outline: none!important;
+}

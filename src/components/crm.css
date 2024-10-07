@@ -1,0 +1,10 @@
+#crm{
+    padding: 5rem 0;
+    background-color: #1B476A;
+    background-image: url("./../assets/house1.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover ;
+    background-blend-mode: multiply;
+    background-attachment: fixed;
+}

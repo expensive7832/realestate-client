@@ -1,0 +1,48 @@
+.item .topFlatList {
+    position: absolute;
+    top: 0;
+    padding: 1rem;
+    width: 100%;
+}
+.item .topFlatList .item-price{
+    font-weight: bold;
+    font-size: .4rem;
+    color: #fff;
+    background-color: #77C720;
+    border-radius: .2rem;
+    padding: .3rem;
+  }
+.item .topFlatList .item-price:nth-child(2){
+    
+    background-color: #414143;
+    
+  }
+
+  .item .bottomFlatList{
+    position: absolute;
+    bottom: 0;
+    padding: 1rem;
+    width: 100%;
+  }
+
+  .item .bottomFlatList .fa-solid{
+    background-color: #000;
+    text-align: center;
+    padding: .4rem;
+    opacity: .6;
+    color: #fff;
+    border-radius: 50%;
+    transition: transform 5s ease-in;
+  }
+  .item .bottomFlatList .fa-solid:hover{
+  opacity: 1;
+  transform: scale(1.1);
+  }
+  
+
+  .item .item-price{
+    font-weight: bold;
+    font-size: 1rem;
+    color: #fff;
+  
+  }

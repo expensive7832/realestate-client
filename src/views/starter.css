@@ -1,0 +1,28 @@
+.ctr .border{
+    border-radius: 1rem;
+    max-width: 30%;
+    margin: 0 .2rem;
+}
+.ctr .listingDesign{
+    border-right: 2px solid ;
+}
+
+.listingDesign img{
+    width: 3rem;
+    height: 3rem;
+}
+
+.ctr .view img{
+   background-color: #633D8A;
+}
+.ctr .listingText .text ul li {
+    list-style-type: none;
+}
+
+@media (max-width: 576px) {
+    .ctr .border{
+        border-radius: 1rem;
+        max-width: 100%;
+       
+    }
+}

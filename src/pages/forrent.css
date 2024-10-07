@@ -1,0 +1,54 @@
+
+#rent .page-top, #sale .page-top{
+    background: #364465;
+    padding: 50px;
+    color: white;
+  }
+#rent .searchProper, #sale .searchProper{
+    background-color: #364465;
+    padding: .5rem 0;
+}
+#rent .searchProper .col-md-8, #sale .searchProper .col-md-8{
+    padding: .4rem 0;
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    background-color: #fff;
+    border: 1px solid #ced4da;
+    border-radius: .6rem;
+}
+#rent .searchProper .col-md-8 .fa-search, #sale .searchProper .col-md-8 .fa-search{
+    width: 20%;
+    padding-left: 1rem;
+   
+}
+#rent .searchProper .col-md-8 input, #sale .searchProper .col-md-8 input{
+    outline: none!important;
+        color: #000!important;
+        letter-spacing: normal;
+        word-spacing: normal;
+        line-height: normal;
+        text-transform: none;
+        text-indent: 0px;
+        text-shadow: none;
+        display: inline-block;
+        text-align: start;
+        appearance: auto;
+        -webkit-rtl-ordering: logical;
+        cursor: text;
+        background-color: #fff!important;
+        margin: 0em;
+        padding: 1px 2px;
+        border: none!important;
+        
+}
+#rent .orderBy, #sale .orderBy{
+    width: 80%;
+    padding: .3rem;
+}
+#rent .d-flex select, #sale .d-flex select {
+    outline: none!important;
+    background-color:inherit!important;
+    cursor: pointer;
+    border:none!important
+}

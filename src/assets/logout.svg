@@ -1,0 +1,19 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!--Generator: Xara Designer (www.xara.com), SVG filter version: 6.3.0.23-->
+<svg fill="none" fill-rule="evenodd" stroke="black" stroke-width="0.501" stroke-linejoin="bevel" stroke-miterlimit="10" font-family="Times New Roman" font-size="16" style="font-variant-ligatures:none" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" version="1.1" overflow="visible" width="84.834pt" height="84.83pt" viewBox="32.583 -117.415 84.834 84.83">
+ <defs>
+	</defs>
+ <g id="Layer 1" transform="scale(1 -1)">
+  <g id="ClipView" stroke="none">
+   <path d="M 32.583,117.415 L 117.417,117.415 L 117.417,32.585 L 32.583,32.585 L 32.583,117.415"/>
+   <clipPath id="ClipPath">
+    <path d="M 32.583,117.415 L 117.417,117.415 L 117.417,32.585 L 32.583,32.585 L 32.583,117.415 Z"/>
+   </clipPath>
+   <g clip-path="url(#ClipPath)">
+    <path d="M 114.987,75.98 C 113.639,75.98 112.565,74.897 112.565,73.541 L 112.565,51.444 C 112.565,45.424 107.656,40.548 101.661,40.548 L 48.344,40.548 C 42.324,40.548 37.444,45.445 37.444,51.444 L 37.444,73.908 C 37.444,75.256 36.361,76.342 35.017,76.342 C 33.661,76.342 32.583,75.256 32.583,73.908 L 32.583,51.444 C 32.583,42.745 39.661,35.691 48.344,35.691 L 101.661,35.691 C 110.356,35.691 117.417,42.761 117.417,51.444 L 117.417,73.541 C 117.417,74.877 116.331,75.98 114.987,75.98 Z" fill="#330066" stroke-width="0.177" fill-rule="evenodd" stroke-linejoin="miter" marker-start="none" marker-end="none"/>
+    <path d="M 61.259,94.702 L 72.566,106.004 L 72.566,56.699 C 72.566,55.347 73.648,54.264 74.996,54.264 C 76.352,54.264 77.43,55.347 77.43,56.699 L 77.43,106.004 L 88.741,94.702 C 89.203,94.235 89.835,93.981 90.443,93.981 C 91.074,93.981 91.686,94.219 92.157,94.702 C 93.11,95.659 93.11,97.188 92.157,98.138 L 76.714,113.589 C 76.263,114.039 75.628,114.309 74.996,114.309 C 74.356,114.309 73.737,114.059 73.29,113.589 L 57.839,98.138 C 56.894,97.188 56.894,95.659 57.839,94.702 C 58.785,93.764 60.322,93.764 61.259,94.702 Z" fill="#330066" stroke-width="0.177" fill-rule="evenodd" stroke-linejoin="miter" marker-start="none" marker-end="none"/>
+   </g>
+  </g>
+ </g>
+</svg>

@@ -1,0 +1,17 @@
+
+.sbs-area-inp{
+    padding: 10px;
+      border: 1px solid gainsboro;
+      outline: none;
+      border-radius: 5px;
+  }
+  
+  .section-subscribe{
+        background: #4b5698;
+  }
+  .section-subscribe .title{
+    color: white;
+  }
+  .sbs-description{
+    color: #e6e6e6;
+  }

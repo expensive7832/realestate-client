@@ -1,0 +1,14 @@
+.contentArea{
+    /* background-color: #eee!important; */
+}
+#profile .fa-camera{
+    opacity: .6;
+    color: red;
+}
+
+
+#profile .profilepic{
+    width: 10rem;
+    height: 10rem;
+    object-fit: cover;
+}

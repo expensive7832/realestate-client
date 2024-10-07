@@ -1,0 +1,105 @@
+
+  .banner{
+    min-height: 100vh;
+    color:White;
+    background: #eff6ff no-repeat;
+    background-size: cover!important;
+    background-position: center!important;
+    position: relative;
+  }
+
+  .banner .searchBox{
+margin-top: 15vh;
+  }
+  .banner .col-lg-8{
+    display: grid;
+    place-items: center;
+  }
+  .banner .form-select{
+
+    width: 24%;
+  }
+  .banner .nav-tabs .nav-item p{
+
+    color: #0d6efd!important;
+  }
+
+  @media (max-width: 576px) {
+    .banner .form-select{
+      width: 100%;
+    }
+    
+  }
+
+.search-area{
+    background-color: white;
+    box-shadow: 0 10px 12px rgba(77,60,160,0.1);
+    border-radius: 8px;
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    -ms-border-radius: 8px;
+    -o-border-radius: 8px;
+   
+  }
+
+  .inp-search{
+    border:0;
+    outline: 0 none;
+    width: 100%;
+    padding: 15px;
+  
+  }
+  .find-search{
+    position: absolute;
+      background: white;
+      top:224px;
+      width: 100%;
+      border-radius: 8px;
+      color: black;
+      padding: 20px;
+      text-align: start;
+      overflow-y: scroll;
+  }
+  .find-search a{
+    display: block;
+  }
+  .bg-custom{
+    position: absolute;
+    background: rgb(29 34 43 / 69%);
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  .btn-search{
+    background:#253156;
+    border-radius: .2rem;
+    border: 0;
+    color: white;
+    padding: 12px 25px;
+    min-width: 130px;
+  }
+  .banner-area{
+    position: relative;
+    
+  }
+  .banner-title{
+    color:white;
+    font-size: 2.4rem;
+    /*color: #1a2340;*/
+  }
+  .title-area{
+    margin-bottom: 40px;
+  }
+  .title{
+    font-size: 40px;
+    margin: 0;
+    color: #3a4867de;
+    font-weight: bold;
+  }
+  .title-description{
+    font-size: 15px;
+    margin: 0;
+  }

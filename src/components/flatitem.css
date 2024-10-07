@@ -1,0 +1,134 @@
+.section-all-re .flat .owl-stage-outer{
+  top: 8vh
+}
+
+.section-all-re .flat .owl-nav{
+  position: absolute;
+  top: 0;
+  right: 1vw;
+}
+
+.section-all-re .flat .owl-nav .owl-prev button, .owl-next button{
+  background-color: grey;
+  color: #fff;
+border: none!important;
+border-radius: .6rem;
+padding: .3rem;
+  }
+.section-all-re .flat .owl-nav .owl-prev button:hover, .owl-next button:hover{
+  background-color: #414143;
+  }
+
+.item{
+  position: relative;
+  }
+
+.item:hover .overlay{
+  opacity: 0;
+  }
+ 
+.item .overlay{
+  position: absolute; 
+  top: 0;
+  background-color: rgba(0, 0, 0, 0.288);
+  height: 100%;
+  width: 100%;
+  opacity: .4; 
+  border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+  }
+.item-image{
+    overflow: hidden; 
+    position: relative; 
+  }
+  .item-image img{
+    min-height: 240px;
+    width: 100%;
+    max-height: 240px;
+    object-fit:cover;
+    overflow: hidden;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+  }
+  .item{
+    margin-bottom: 30px;
+    margin-right: 10px;
+    margin-left: 10px;
+  }
+
+  .item-description{
+    padding:15px;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+    border-bottom-right-radius: 8px;
+    border-bottom-left-radius: 8px;
+  
+  }
+  .item-description div:nth-child(1){
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .section-all-re .item-title{
+    font-weight: 600;
+    text-align: left;
+    color: #364465;
+  }
+  .section-all-re .topFlatList{
+    position: absolute;
+    top: 0;
+    padding: 1rem;
+    width: 100%;
+  }
+  .section-all-re .topFlatList .item-price{
+    font-weight: bold;
+    font-size: .4rem;
+    color: #fff;
+    background-color: #77C720;
+    border-radius: .2rem;
+    padding: .3rem;
+  }
+  .section-all-re .topFlatList .item-price:nth-child(2){
+    
+    background-color: #414143;
+    
+  }
+  .section-all-re .bottomFlatList{
+    position: absolute;
+    bottom: 0;
+    padding: 1rem;
+    width: 100%;
+  }
+
+  .section-all-re .bottomFlatList .fa-solid{
+    background-color: #000;
+    text-align: center;
+    padding: .4rem;
+    opacity: .6;
+    color: #fff;
+    border-radius: 50%;
+    transition: transform 5s ease-in;
+  }
+  .section-all-re .bottomFlatList .fa-solid:hover{
+  opacity: 1;
+  transform: scale(1.1);
+  }
+  
+
+  .section-all-re .item-price{
+    font-weight: bold;
+    font-size: 1rem;
+    color: #fff;
+  
+  }
+  .item .fas{
+    color:#364465
+  }
+  .item-icon{
+    color:black;
+    font-weight: 500;
+    font-size: 15px;
+    display: flex;align-items: center;
+  }
+
+  

@@ -1,0 +1,17 @@
+.col-md-6 .d-flex input{
+    border: none !important;
+   
+}
+.col-md-6 .d-flex input:focus{
+    border: none !important;
+    outline: none!important;
+    background-color: #fff!important;
+}
+
+.col-md-6 .d-flex{
+    border: 1px solid #dee2e6;
+    border-radius: 6px;
+    
+}
+
+
